@@ -1,0 +1,144 @@
+
+UNOFFICIAL TRANSCRIPT FOR
+RONALD SNYDER III
+Transcript Key
+
+                    TRANSFER CREDIT INFORMATION 
+               1005 COLLEGE OF LAKE COUNTY 
+       CRHR 104A  CREDIT HOURS           4 
+       ENG  101   COMPOSITION I          4   ENG121 
+       GEN  100A  GENERAL ED ELECTIVE    4   HST221 
+       MTH  111   INTRODUCTORY ALGEBRA   4   MTH108 
+       MTH  112   INTERMEDIATE ALGEBRA   4   MTH122 
+       MTH  124   TRIGONOMETRY           4   MTH123 
+       PSY  111   GENERAL PSYCHOLOGY     4   PSY121 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR    0    28       .0      0    .00 
+                CUM    0    28       .0      0    .00 
+                             SPRING 2008 
+       COL  112   COLLEGE SUCCESS ONLN   0   S            .0  OL 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR    0     0       .0      0    .00 
+                CUM    0    28       .0      0    .00 
+                             SUMMER 2008 
+       CIS  106A  INTRO OPER SYS CNCPT   4   A          16.0  OL 
+       ENG  102   COMPOSITION II         4   C           8.0  OL 
+       INF  111   INFO SYSTEMS THEORY    2   A           8.0  OL 
+       INF  114A  INTRO TO DB APPL       2   A-          7.4  OL 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     39.4     12   3.28 
+                CUM   12    40     39.4     12   3.28 
+                               FALL 2008 
+       CIS  331   DB MGT USING SQL       4   A          16.0  OL 
+       CS   111   INTRO TO PROGRAMMING   4   A          16.0  OL 
+       WRI  115   WORKPLACE COMM         4   A          16.0  OL 
+           ACADEMIC STANDING:  PRESIDENT'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     48.0     12   4.00 
+                CUM   24    52     87.4     24   3.64 
+                             WINTER 2009 
+       CS   221   INTRODUCTION TO JAVA   4   A          16.0  OL 
+       LUX  205   INTRO TO LINUX/UNIX    4   A          16.0  OL 
+       SPK  201   ORAL COMMUNICATION     4   A          16.0  OL 
+           ACADEMIC STANDING:  PRESIDENT'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     48.0     12   4.00 
+                CUM   36    64    135.4     36   3.76 
+                             SPRING 2009 
+       CIS  310   VISUAL BASIC           4   A          16.0  OL 
+       CS   222   PROGRAMMING W/JAVA     4   A-         14.8  OL 
+       WEB  111A  HTML PROGRAMMING       4   A          16.0  OL 
+           ACADEMIC STANDING:  DEAN'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     46.8     12   3.90 
+                CUM   48    76    182.2     48   3.80 
+                             SUMMER 2009 
+       CIS  311   ADV VISUAL BASIC       4   A          16.0  OL 
+       CS   217A  C++ PROGRAMMING        4   A          16.0  OL 
+           ACADEMIC STANDING:  DEAN'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR    8     8     32.0      8   4.00 
+                CUM   56    84    214.2     56   3.83 
+                               FALL 2009 
+       CIS  251   SYS DEV METHODS        4   A          16.0  OL 
+       CS   223   JAVA OBJ ORIENT PGMG   4   B+         13.2  OL 
+       WRK  291B  PROF CAREER STRAT      1   P           4.0  OL 
+           ACADEMIC STANDING:  DEAN'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR    9     9     33.2      9   3.69 
+                CUM   65    93    247.4     65   3.81 
+                             WINTER 2010 
+       GEO  101B  WORLD GEOGRAPHY I      4   B          12.0  OL 
+       INF  112   WORD PROCESSING        2   A-          7.4  OL 
+       INF  113   ELECT SPREADSHEETS     2   A           8.0  OL 
+       SOC  321   CULTURAL DIVERSITY     4   B-         10.8  OL 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     38.2     12   3.18 
+                CUM   77   105    285.6     77   3.71 
+                             SPRING 2010 
+       CIS  303A  COMPUTER ARCHITECTUR   4   A          16.0  OL 
+           ACADEMIC STANDING:  DEAN'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR    4     4     16.0      4   4.00 
+                CUM   81   109    301.6     81   3.72 
+                               FALL 2010 
+       CS   218A  OBJ ORIENT PGM W/C++   4   A          16.0  OL 
+       GEO  102B  WORLD GEOGRAPHY II     4   B          12.0  OL 
+       PSY  335   HUMAN SEXUALITY        4   A          16.0  OL 
+           ACADEMIC STANDING:  DEAN'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     44.0     12   3.67 
+                CUM   93   121    345.6     93   3.72 
+                             WINTER 2011 
+       ENG  311   CREATIVE WRITING       4   B+         13.2  OL 
+       HUM  401A  PHILOSOPHY OF ETHICS   4   A          16.0  OL 
+       PSY  211   PSY OF DEATH & DYING   4   A          16.0  OL 
+           ACADEMIC STANDING:  DEAN'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     45.2     12   3.77 
+                CUM  105   133    390.8    105   3.72 
+                             SPRING 2011 
+       CS   422A  DATABASE PGM I         4   A-         14.8  OL 
+       MTH  340   DISCRETE MATHEMATICS   4   B-         10.8  OL 
+       SCI  451   ENVIRONMENTL SCIENCE   4   B          12.0  OL 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     37.6     12   3.13 
+                CUM  117   145    428.4    117   3.66 
+                             SUMMER 2011 
+       CIS  404   ADV COMPUTER ARCH      4   B          12.0  OL 
+       CS   321   DATA STRC&ALGRTHM I    4   B-         10.8  OL 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR    8     8     22.8      8   2.85 
+                CUM  125   153    451.2    125   3.61 
+                               FALL 2011 
+       CIS  421B  DATABASE ADMIN I       4   A          16.0  OL 
+       CS   322   DATA STRC&ALGRTHM II   4   B          12.0  OL 
+       MTH  401   STATISTICAL METHODS    4   B+         13.2  OL 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     41.2     12   3.43 
+                CUM  137   165    492.4    137   3.59 
+                             WINTER 2012 
+       CIS  422   DATABASE ADMIN II      4   B+         13.2  OL 
+       CS   332A  ADV HTML PROGRAMMING   4   A          16.0  OL 
+       CS   335B  PERL PROGRAMMING       4   A-         14.8  OL 
+       WEB  211   WEB SCRIPTING          4   B          12.0  OL 
+           ACADEMIC STANDING:  DEAN'S LIST 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   16    16     56.0     16   3.50 
+                CUM  153   181    548.4    153   3.58 
+                             SPRING 2012 
+       CIS  403   SYS DEVELOP PROJECT    4   A          16.0  OL 
+       SPK  211   GROUP DYNAMICS         4   B          12.0  OL 
+       WEB  361   WEB SERVER ADMIN       4   B          12.0  OL 
+                     ATT   ERN  HNR PTS GPA HR    GPA 
+                CUR   12    12     40.0     12   3.33 
+                CUM  165   193    588.4    165   3.57 
+                       GRADUATION INFORMATION 
+          ASSOCIATE OF APPLIED SCIENCE DEGREE 
+           MAJOR(S): 
+            COMPUTER PROGRAMMING - JAVA OPTION 
+           MARCH 2010      3.71  MAGNA CUM LAUDE 
+          BACHELOR OF COMPUTER SCIENCE 
+           MAJOR(S): 
+            COMPUTER SCIENCE 
+           JUNE 2012       3.57  CUM LAUDE 
